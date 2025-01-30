@@ -1,0 +1,18 @@
+C:\Users\mynam\source\repos\to-do list 2\to-do list 2\bin\Debug\net8.0-windows\to-do list 2.exe
+C:\Users\mynam\source\repos\to-do list 2\to-do list 2\bin\Debug\net8.0-windows\to-do list 2.deps.json
+C:\Users\mynam\source\repos\to-do list 2\to-do list 2\bin\Debug\net8.0-windows\to-do list 2.runtimeconfig.json
+C:\Users\mynam\source\repos\to-do list 2\to-do list 2\bin\Debug\net8.0-windows\to-do list 2.dll
+C:\Users\mynam\source\repos\to-do list 2\to-do list 2\bin\Debug\net8.0-windows\to-do list 2.pdb
+C:\Users\mynam\source\repos\to-do list 2\to-do list 2\obj\Debug\net8.0-windows\to_do_list_2.Properties.Resources.resources
+C:\Users\mynam\source\repos\to-do list 2\to-do list 2\obj\Debug\net8.0-windows\to-do list 2.csproj.GenerateResource.cache
+C:\Users\mynam\source\repos\to-do list 2\to-do list 2\obj\Debug\net8.0-windows\to-do list 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mynam\source\repos\to-do list 2\to-do list 2\obj\Debug\net8.0-windows\to-do list 2.AssemblyInfoInputs.cache
+C:\Users\mynam\source\repos\to-do list 2\to-do list 2\obj\Debug\net8.0-windows\to-do list 2.AssemblyInfo.cs
+C:\Users\mynam\source\repos\to-do list 2\to-do list 2\obj\Debug\net8.0-windows\to-do list 2.csproj.CoreCompileInputs.cache
+C:\Users\mynam\source\repos\to-do list 2\to-do list 2\obj\Debug\net8.0-windows\to-do list 2.dll
+C:\Users\mynam\source\repos\to-do list 2\to-do list 2\obj\Debug\net8.0-windows\refint\to-do list 2.dll
+C:\Users\mynam\source\repos\to-do list 2\to-do list 2\obj\Debug\net8.0-windows\to-do list 2.pdb
+C:\Users\mynam\source\repos\to-do list 2\to-do list 2\obj\Debug\net8.0-windows\to-do list 2.genruntimeconfig.cache
+C:\Users\mynam\source\repos\to-do list 2\to-do list 2\obj\Debug\net8.0-windows\ref\to-do list 2.dll
+C:\Users\mynam\source\repos\to-do list 2\to-do list 2\obj\Debug\net8.0-windows\to_do_list_2.CreateItem.resources
+C:\Users\mynam\source\repos\to-do list 2\to-do list 2\obj\Debug\net8.0-windows\to_do_list_2.MainList.resources

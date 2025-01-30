@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mynam\\source\\repos\\to-do list 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2173132-5D47-4255-87E1-1FEB30D550A4}|to-do list 2\\to-do list 2.csproj|c:\\users\\mynam\\source\\repos\\to-do list 2\\to-do list 2\\mainlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2173132-5D47-4255-87E1-1FEB30D550A4}|to-do list 2\\to-do list 2.csproj|solutionrelative:to-do list 2\\mainlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2173132-5D47-4255-87E1-1FEB30D550A4}|to-do list 2\\to-do list 2.csproj|C:\\Users\\mynam\\source\\repos\\to-do list 2\\to-do list 2\\mainlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2173132-5D47-4255-87E1-1FEB30D550A4}|to-do list 2\\to-do list 2.csproj|solutionrelative:to-do list 2\\mainlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2173132-5D47-4255-87E1-1FEB30D550A4}|to-do list 2\\to-do list 2.csproj|c:\\users\\mynam\\source\\repos\\to-do list 2\\to-do list 2\\mainlist.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2173132-5D47-4255-87E1-1FEB30D550A4}|to-do list 2\\to-do list 2.csproj|solutionrelative:to-do list 2\\mainlist.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainList.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mynam\\source\\repos\\to-do list 2\\to-do list 2\\MainList.cs",
+              "RelativeDocumentMoniker": "to-do list 2\\MainList.cs",
+              "ToolTip": "C:\\Users\\mynam\\source\\repos\\to-do list 2\\to-do list 2\\MainList.cs [Design]",
+              "RelativeToolTip": "to-do list 2\\MainList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T05:37:53.22Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainList.cs",
+              "DocumentMoniker": "C:\\Users\\mynam\\source\\repos\\to-do list 2\\to-do list 2\\MainList.cs",
+              "RelativeDocumentMoniker": "to-do list 2\\MainList.cs",
+              "ToolTip": "C:\\Users\\mynam\\source\\repos\\to-do list 2\\to-do list 2\\MainList.cs",
+              "RelativeToolTip": "to-do list 2\\MainList.cs",
+              "ViewState": "AgIAAM4CAAAAAAAAAAAkwOUCAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T18:26:32.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainList.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\mynam\\source\\repos\\to-do list 2\\to-do list 2\\MainList.Designer.cs",
+              "RelativeDocumentMoniker": "to-do list 2\\MainList.Designer.cs",
+              "ToolTip": "C:\\Users\\mynam\\source\\repos\\to-do list 2\\to-do list 2\\MainList.Designer.cs",
+              "RelativeToolTip": "to-do list 2\\MainList.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwP8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T18:31:47.399Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
